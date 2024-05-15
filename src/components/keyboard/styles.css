@@ -1,0 +1,10 @@
+.row1 {
+  display: flex;
+}
+.row2 {
+  display: flex;
+  margin-left: 24px;
+}
+.row3 {
+  display: flex;
+}

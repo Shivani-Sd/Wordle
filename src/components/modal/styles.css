@@ -1,0 +1,42 @@
+#modal-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 300px;
+  width: 500px;
+  border: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400;
+  border-radius: 10px;
+  border: none;
+}
+
+#trophy {
+  width: 13%;
+}
+
+#sad-face {
+  width: 11%;
+}
+
+#modal-title {
+  font-size: 2.26rem;
+  font-weight: 500;
+}
+
+#cancel {
+  color: #808080a6;
+  position: relative;
+  bottom: 34px;
+  left: 225px;
+  cursor: pointer;
+}
+
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  background-color: rgb(0 0 0 / 69%) !important;
+}

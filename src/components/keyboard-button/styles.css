@@ -1,0 +1,19 @@
+.keyboard-button {
+  height: 58px !important;
+  min-width: 44px !important;
+  border-radius: 4px !important;
+  color: #000000 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 0 6px 6px 0 !important;
+  font-weight: bold !important;
+  border: none !important;
+  cursor: pointer !important;
+  transition: background-color 0s linear;
+  transition-delay: 1.6s !important;
+}
+
+.keyboard-button:hover {
+  background-color: #b2b6bb !important;
+}
